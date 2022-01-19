@@ -81,7 +81,7 @@ class Relogio1State extends State<Relogio1>
                 elevation: 10.0,
                 color: Colors.brown.shade900,
                 child: SizedBox(
-                  width: 230,
+                  width: 270,
                   height: 220,
                   child: Center(
                     child: Text(
